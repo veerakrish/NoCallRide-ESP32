@@ -1,4 +1,4 @@
-# RideSilent-ESP32 🏍️🔇
+# NoCallRide-ESP32 🏍️🔇
 
 **Automatically rejects all incoming calls when your bike/scooter is ON**  
 Zero distraction → Maximum safety → Pure focus on the road.
